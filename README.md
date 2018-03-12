@@ -1,0 +1,1 @@
+# Quine_containing_a_portrait
